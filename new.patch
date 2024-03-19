@@ -1,0 +1,8 @@
+diff --git a/tutorial.txt b/tutorial.txt
+index 1e06d5b..85d4024 100644
+--- a/tutorial.txt
++++ b/tutorial.txt
+@@ -1,2 +1,3 @@
+ test line 1
+ test line 2
++test line 3
